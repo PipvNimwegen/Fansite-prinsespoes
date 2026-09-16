@@ -83,7 +83,7 @@ h2 {
   grid-row: 2/3;
   grid-column: 2/6;
 
-  background-image: url(/gifs/gifstars.gif);
+  background-image: url(./gifs/gifstars.gif);
   background-repeat: repeat-x;
   background-size: contain;
   background-color: #ec97ff;
@@ -111,7 +111,7 @@ h2 {
 }
 
 .gallerij {
-  background-image: url('/gifs/stars-sparkles.gif');
+  background-image: url('./gifs/stars-sparkles.gif');
   background-repeat: repeat-x;
   background-size: contain;
   border: 5px solid orange;
