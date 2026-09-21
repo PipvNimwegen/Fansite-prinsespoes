@@ -62,10 +62,6 @@ h2 {
   z-index: 1000;
 }
 
-#contactinformatie a {
-  color: #2113ba;
-}
-
 #contactinformatie a:hover {
   color: #ffe600;
 }
